@@ -1,2 +1,0 @@
-# WinSwiftLaunch
-Simple App Launcher
